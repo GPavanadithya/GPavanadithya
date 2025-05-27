@@ -23,7 +23,7 @@ Explore my repositories to learn more about each project.
 
 ## 🏆🏆 Achievements / Certifications :
 - 🐍 **Python Essentials_1** - by CISCO NAT
-- 💻
+- 💻 **AI FUNDAMENTALS** - by IBM Skillbuild
 
 ---
 
